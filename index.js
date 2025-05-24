@@ -1,6 +1,6 @@
-const Video = require("./Helpers/Video");
-const Playlist = require("./Helpers/Playlist");
-const YoutubeSearch = require("./Helpers/YoutubeSearch");
+const Video = require("./src/utils/Video");
+const Playlist = require("./src/utils/Playlist");
+const YoutubeSearch = require("./src/utils/YoutubeSearch");
 
 module.exports = {
   ...Video,

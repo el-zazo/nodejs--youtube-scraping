@@ -1,6 +1,6 @@
 // Data
-const { ALL_TYPES } = require("../Data/all_types");
-const { D_Q } = require("../Data/default_qualitys");
+const { ALL_TYPES } = require("../constants/all_types");
+const { D_Q } = require("../constants/default_qualitys");
 
 const MAIN_GET_INFO_OPTIONS = {
   /**

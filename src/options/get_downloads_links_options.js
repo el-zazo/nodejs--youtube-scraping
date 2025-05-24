@@ -1,5 +1,5 @@
 // Data
-const { D_Q } = require("../Data/default_qualitys");
+const { D_Q } = require("../constants/default_qualitys");
 
 const GET_DOWNLOADS_LINKS_OPTIONS = {
   /**
