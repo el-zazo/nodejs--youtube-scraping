@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.10",
+    "@distube/ytsr": "^2.0.4",
+    "@elzazo/main-utils": "^1.0.1",
+    "ytpl": "^2.3.0"
+  },
+  "name": "@elzazo/youtube-scraping",
+  "version": "1.0.0",
+  "description": "Youtube scraping videos, playlists, and search by query",
+  "main": "index.js",
+  "author": "elzazo",
+  "license": "ISC"
+}
