@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.10",
+    "@distube/ytsr": "^2.0.4",
+    "@el-zazo/main-utils": "^0.0.1",
+    "dotenv": "^16.5.0",
+    "ytpl": "^2.3.0"
+  },
+  "name": "@el-zazo/youtube-scraping",
+  "version": "0.0.1",
+  "description": "Youtube scraping videos, playlists, video recommendations, and search by query",
+  "main": "index.js",
+  "author": "el-zazo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/el-zazo/nodejs--youtube-scraping.git"
+  },
+  "publishConfig": {
+    "@el-zazo:registry": "https://npm.pkg.github.com"
+  }
+}
